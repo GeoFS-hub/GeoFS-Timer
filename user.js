@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GeoFS Flight Timer
 // @namespace    https://github.com/GeoFS-hub/GeoFS-Timer
-// @version      1.0.2
+// @version      Beta v0.5
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
 // @description  Persistent GeoFS flight timer with live language switch, collapsible UI, hint adjusted, and larger current label.
 // @author       31124呀 and GeoFS Explorer

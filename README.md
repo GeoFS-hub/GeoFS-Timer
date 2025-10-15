@@ -33,9 +33,11 @@ Click the button above to join our translation project.
 2. Open [Geo-FS](https://geo-fs.com) and open Fn + F12. Paste the code and then Enter.
 
 ## Stars History
-<div align="center">
-If this project helps you, please give it a ⭐ star!
 
-https://api.star-history.com/svg?repos=GeoFS-hub/GeoFS-Timer&type=Date
-
-</div> ```
+<a href="https://www.star-history.com/#GeoFS-hub/GeoFS-Timer&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=GeoFS-hub/GeoFS-Timer&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=GeoFS-hub/GeoFS-Timer&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=GeoFS-hub/GeoFS-Timer&type=Date" />
+ </picture>
+</a>

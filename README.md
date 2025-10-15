@@ -25,10 +25,9 @@ Click the button above to join our translation project.
 ## 📥 Installation & Usage
 
 ### Method 1: User Script (Recommended)
-1. Install Tampermonkey or Violentmonkey browser extension
-2. [Click here to install the script](#) <!-- Add your actual script link here -->
+1. Install Tampermonkey or Violentmonkey browser extension.
+2. Copy the link in main.js and paste in the browser extension.
 
-### Method 2: Bookmarklet
-1. Save the following code as a bookmark:
-```javascript
-javascript:(function(){/* Your code here */})();
+### Method 2: Fn + F12
+1. Copy the code in main.js
+2. Open [Geo-FS](https://geo-fs.com) and open Fn + F12. Paste the code and then Enter.
